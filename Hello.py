@@ -13,7 +13,7 @@ def run():
     )
 
     st.markdown("""
-**👋 Hi! Sam here, a co-founder at [MadKudu](https://www.madkudu.com).**</br>
+**👋 Hi! Sam here, co-founder at [MadKudu](https://www.madkudu.com).**</br>
 This year, I’ve found tons of value in going to various marketing conferences and private events. But it was very hard to track what was happening, where, and when. I also missed out on a few cool small local events (FOMO!).</br>
 
 I could not find a simple tracker of relevant events to consider, so here it goes.
