@@ -27,7 +27,7 @@ Click “Download CSV” at the bottom-right of the sheet.
 Send an email at sam+event@madkudu.com to recommend an event or to point to something incorrect.
                 
 **🙏 Credits**<br>
-Contributors to the list: [Laura Hebert](https://www.linkedin.com/in/lauraehebert/), [Aline Romanelli](https://www.linkedin.com/in/aline-romanelli/), [Linh Ho](https://www.linkedin.com/in/linhho/), [Mark Kilens](https://www.linkedin.com/in/markkilens/)</br>
+Contributors to the list: [Laura Hebert](https://www.linkedin.com/in/lauraehebert/), [Aline Romanelli](https://www.linkedin.com/in/aline-romanelli/), [Linh Ho](https://www.linkedin.com/in/linhho/), [Mark Kilens](https://www.linkedin.com/in/markkilens/), [David Yockelson](https://www.linkedin.com/in/david-yockelson-452324/)</br>
 Inspiration: layoffs.fyi
                                                 
     """, unsafe_allow_html=True)
