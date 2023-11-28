@@ -26,7 +26,7 @@ Click “Download CSV” at the bottom-right of the sheet.
 **🕵️‍♀️ See something missing/incorrect?**</br>
 Send an email at sam+event@madkudu.com to recommend an event or to point to something incorrect.
                 
-**🙏 Credit**<br>
+**🙏 Credits**<br>
 Contributors to the list: [Laura Hebert](https://www.linkedin.com/in/lauraehebert/), [Aline Romanelli](https://www.linkedin.com/in/aline-romanelli/), [Linh Ho](https://www.linkedin.com/in/linhho/), [Mark Kilens](https://www.linkedin.com/in/markkilens/)</br>
 Inspiration: layoffs.fyi
                                                 
